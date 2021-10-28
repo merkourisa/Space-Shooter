@@ -8,21 +8,13 @@
 - Ενεργοποίησε το Github Pages στα setting του προσωπικού σου repository ![ScreenShot](1.png) και *άλλαξε το λινκ στην κορυφή του αποθετηρίου σου ώστε να δείχνει στην σελίδα του παιχνιδιού σου.*
 ![ScreenShot](2.png)
 
-
-## Notes
-- Στην περίπτωση που κάποιος θέλει εναλλακτικά να τρέξει το παιχνίδι **τοπικά** μπορεί να ακολουθήσει τις οδηγίες από το [επίσημο site](http://phaser.io/tutorials/getting-started/index). Προτεινόμενος local web server: [xampp](https://www.apachefriends.org/index.html). Editor μπορείτε να βρείτε από [εδώ](http://phaser.io/tutorials/getting-started-phaser2/part4) ή να χρησιμοποιήσετε το [eclipse](http://www.eclipse.org/) ακολουθώντας τις οδηγίες που δίνονται [εδώ](http://www.html5gamedevs.com/topic/22688-setting-up-eclipse-to-work-with-phaser-how-to/). 
-
 **Προσοχή:** Για να βαθμολογηθεί το παιχνίδι πρέπει να βρίσκεται υποχρεωτικά στην προσωπική σας github page.
 
 ## Βαθμολόγηση
-Λαμβάνοντας υπόψη το [ποσοστό της εργασίας στον τελικό βαθμό](https://github.com/courses-ionio/projects/blob/master/dev/index.md), με άριστα το 5 τα παραδοτέα βαθμολογούνται ως εξής:
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/Shooter/issues/1): μέχρι +2 μονάδες. 
-- Σημαντικές αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 2](https://github.com/ioniodi/Shooter/issues/2): μέχρι +2 μονάδες.
-- [Aξιολόγηση από ομότιμους](https://github.com/ioniodi/Shooter/issues/3): μέχρι +1 μονάδα.
+Λαμβάνοντας υπόψη το ποσοστό της εργασίας στον τελικό βαθμό, με άριστα το 2 τα παραδοτέα βαθμολογούνται ως εξής:
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι +2 μονάδες. 
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι +2 μονάδες.
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3):
 
 ## Resources
-- [Phaser Tutorial](http://phaser.io/learn)
-- [Official Phaser Tutorials](https://phaser.io/learn/official-tutorials)
-- [Phaser Examples](http://phaser.io/examples)
-- [Javascript tutorial](http://www.w3schools.com/js/)
-- [PHASERFIRE](http://codeperfectionist.com/portfolio/games/phaserfire/)
+https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe
