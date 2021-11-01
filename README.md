@@ -17,5 +17,14 @@
 - Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι +2 μονάδες.
 - **Αλλαγές στο παιχνίδι όπως περιγράφονται στο [Bonus](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι +2 μονάδες.**
 
+## Προθεσμίες
+- [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι 28/11/2021 
+- [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι 23/12/2021
+- [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι 21/1/2021
+- [Bonus](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι 21/1/2021
+
 ## Resources
-https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe
+
+Τον κώδικα του παιχνιδιού μπορείτε να τον κατεβάσετε από [εδώ](https://drive.google.com/file/d/1ce_eq5lP-lW65SJ3bIBJ3OBeRX5AGatH/view?usp=sharing)
+
+Tutorial:https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe
