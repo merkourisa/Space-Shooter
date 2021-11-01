@@ -27,6 +27,6 @@
 
 Τον κώδικα του παιχνιδιού μπορείτε να τον κατεβάσετε από [εδώ](https://drive.google.com/file/d/1ce_eq5lP-lW65SJ3bIBJ3OBeRX5AGatH/view?usp=sharing).
 
-Επειδή το παιχνίδι έχει αναπτυχθεί σε μια παλιά έκδοση του unity κάποια στοιχεία μπορεί να μην τρέχουν σωστά στην έκδοση (2019.4.31f1) που θα αναπτύξετε το παιχνίδι. Ωστόσο υπάρχουν [αναλυτικές οδηγίες](https://github.com/merkourisa/Space-Shooter/tree/main/Space Shooter Upgrade Guide for Unity 5-5.pdf) οι οποίες θα σας βοηθήσουν να ξεπεράσετε τα συγκεκριμένα προβλήματα. 
+Επειδή το παιχνίδι έχει αναπτυχθεί σε μια παλιά έκδοση του unity κάποια στοιχεία μπορεί να μην τρέχουν σωστά στην έκδοση (2019.4.31f1) που θα αναπτύξετε το παιχνίδι. Ωστόσο υπάρχουν [αναλυτικές οδηγίες](https://github.com/merkourisa/Space-Shooter/blob/main/Space%20Shooter%20Upgrade%20Guide%20for%20Unity%205-5.pdf) οι οποίες θα σας βοηθήσουν να ξεπεράσετε τα συγκεκριμένα προβλήματα. 
 
 Tutorial:https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe
