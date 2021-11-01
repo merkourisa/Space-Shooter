@@ -25,6 +25,8 @@
 
 ## Resources
 
-Τον κώδικα του παιχνιδιού μπορείτε να τον κατεβάσετε από [εδώ](https://drive.google.com/file/d/1ce_eq5lP-lW65SJ3bIBJ3OBeRX5AGatH/view?usp=sharing)
+Τον κώδικα του παιχνιδιού μπορείτε να τον κατεβάσετε από [εδώ](https://drive.google.com/file/d/1ce_eq5lP-lW65SJ3bIBJ3OBeRX5AGatH/view?usp=sharing).
+
+Επειδή το παιχνίδι έχει αναπτυχθεί σε μια παλιά έκδοση του unity κάποια στοιχεία μπορεί να μην τρέχουν σωστά στην έκδοση (2019.4.31f1) που θα αναπτύξετε το παιχνίδι. Ωστόσο υπάρχουν αναλυτικές οδηγίες οι οποίες θα σας βοηθήσουν να ξεπεράσετε τα συγκεκριμένα προβλήματα. 
 
 Tutorial:https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe
