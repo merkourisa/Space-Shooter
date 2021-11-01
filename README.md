@@ -31,6 +31,6 @@
 
 [Tutorial](https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe)
 
-## Προθεσμίες
+## Απορίες
 
-Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Space-Shooter/issues) όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε τυχόν απορίες συμφοιτητών σας. 
+Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Space-Shooter/issues) όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε  απορίες συμφοιτητών σας. 
