@@ -21,7 +21,7 @@
 - [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι 28/11/2021 
 - [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι 23/12/2021
 - [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι 21/1/2022
-- [Bonus](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι 21/1/2022
+- [Bonus](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι 24/1/2022
 
 ## Resources
 
