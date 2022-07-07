@@ -21,7 +21,9 @@
 - [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι 28/11/2021 
 - [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι 23/12/2021
 - [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι 21/1/2022
-- [Παραδοτέο 4](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι 24/1/2022
+- [παραδοτέο 4](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι 24/1/2022
+
+Για όσους κατέβουν στην Εξεταστική του Σεπτεμβρίου 2022 η προθεσμία παράδοσης και των 4 παραδοτέων είναι μια ημέρα πριν τη γρατπή εξέταση του μαθήματος
 
 ## Resources
 
