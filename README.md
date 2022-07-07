@@ -15,7 +15,7 @@
 - Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι +1 μονάδες. 
 - Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι +1 μονάδες.
 - Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι +1 μονάδες.
-- **Αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 4](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι +3 μονάδες.**
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 4](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι +3 μονάδες.
 
 ## Προθεσμίες
 - [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι 28/11/2021 
